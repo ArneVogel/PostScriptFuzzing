@@ -1,0 +1,4 @@
+# grammarinator
+
+use `./process.sh` to create the parser and lexer
+use `./generate.sh` to create new PostScript files
